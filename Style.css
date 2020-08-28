@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#Caption{
+    padding: 60px;
+    text-align: center;
+    color: #24272E;
+    background: white;
+    font-size: 30px;
+}
+
+body{
+    background-color: #24272E;
+}
+
+.Scoreboard{
+    border: 3px solid white;
+    margin: 20px auto;
+    width: 200px;
+    text-align: center;
+    color: #E2584D;
+    font-size:40px;
+    padding: 15px;
+    position: relative;
+}
+
+.name{
+    background-color: #E2584D;
+    color: white
+}
+
+#Userlabel{
+    position: absolute;
+    top: 10px;
+    left: -220px;
+}
+
+#Computerlabel{
+    position: absolute;
+    top: 10px;
+    left: 320px;
+}
+
+.result{
+    font-weight: bold;
+    text-align: center;
+    color: white
+}
+
+.Intro{
+    font-weight: bold;
+    text-align: center;
+    color: white
+}
+
+
+
+
+
+
+
+
+
+
+
+.Options{
+    text-align:center  
+}
+
+.rock{
+    width: 90px;
+    height: 40px;
+    padding:10px;
+    border-radius:10px;
+    margin: 20px;
+    background-color:white;
+    
+}
+
+.paper{
+    width: 90px;
+    height: 40px;
+    padding:10px;
+    border-radius:10px;
+    margin: 20px;
+    background-color:white;
+}
+
+.scissors{
+    width: 90px;
+    height: 40px;
+    padding:10px;
+    border-radius:10px;
+    margin: 20px;
+    background-color:white;
+}
